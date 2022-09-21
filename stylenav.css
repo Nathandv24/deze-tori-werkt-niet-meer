@@ -1,0 +1,64 @@
+#para1 {
+  display: inline;
+}
+
+#para1 {
+  float: left;
+}
+
+#para1 {
+  display: block;
+  padding: 8px;
+  background-color: #a91818;
+}
+
+#para2 {
+  background-color: #883838;
+}
+
+#para2 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #818181;
+}
+
+#para1 {
+  float: left;
+}
+
+#para1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+#para1 a:hover {
+  background-color: #6b6b6b;
+}
+
+.active {
+  background-color: #6b6b6b;
+}
+
+
+#para2 {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+
+
+#para1 {
+  border-right: 1px solid white;
+}
+
+#para1:last-child {
+  border-right: none;
+}
+
